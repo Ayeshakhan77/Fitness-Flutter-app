@@ -1,16 +1,27 @@
-# fitness_app
+# Fitness Flutter App
 
-A new Flutter project.
+A full-stack **Flutter Fitness App** designed to help users achieve their fitness goals through workout tracking, meal planning, progress monitoring, and AI-powered assistance. The project includes a responsive frontend, backend integration, and a structured database.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- User Authentication
+- AI Fitness Chatbot
+- Workout Plans
+- Meal Tracking
+- Progress Dashboard
+- Fitness Statistics
+- Leaderboard
+- Goal Tracking
+- Responsive UI
+- Backend & Database Integration
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- Firebase / Backend API
+- SQLite / Firebase Database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Purpose
+
+This project was built to demonstrate full-stack Flutter development, including mobile UI, backend integration, database design, and modern fitness app features.
